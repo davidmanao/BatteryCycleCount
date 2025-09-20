@@ -1,0 +1,8 @@
+# BatteryCycleCount Requirements
+# This tool works with Python 3.6+ standard library
+# No additional Python packages required
+
+# Optional system packages for enhanced functionality:
+# - acpi (sudo apt install acpi)
+# - upower (sudo apt install upower) 
+# - tp-smapi-dkms (sudo apt install tp-smapi-dkms) # ThinkPad specific
