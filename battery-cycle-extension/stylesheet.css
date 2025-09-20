@@ -1,0 +1,22 @@
+/* Battery Cycle Count Extension Styles */
+
+.panel-label {
+    font-size: 11px;
+    font-weight: bold;
+    color: #ffffff;
+    padding: 0 6px;
+}
+
+.battery-cycle-button {
+    spacing: 0px;
+}
+
+.battery-cycle-button:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 4px;
+}
+
+.battery-cycle-button StLabel {
+    font-size: 11px;
+    font-weight: normal;
+}

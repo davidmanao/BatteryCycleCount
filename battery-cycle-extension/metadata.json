@@ -1,0 +1,10 @@
+{
+  "name": "Battery Cycle Count",
+  "description": "Shows battery cycle count in the top panel",
+  "uuid": "battery-cycle-count@gnome-shell-extensions.gcampax.github.com",
+  "shell-version": [
+    "46"
+  ],
+  "version": 1,
+  "gettext-domain": "battery-cycle-count"
+}
